@@ -34,9 +34,11 @@ const Projects = () => (
             </TagList>
           </div>
           <UtilityList>
+            {visit != '' &&
             <ExternalLinks href={visit}>
               Code
             </ExternalLinks>
+            }
             <ExternalLinks href={source}>
               Source
             </ExternalLinks>

@@ -23,7 +23,7 @@ export const projects = [
     image: '/keyglee.png',
     tags: ['React', 'MongoDB', 'Express', 'NodeJS', 'Redux', 'Materiaul UI'],
     source: 'https://yourvalorhomes.netlify.app',
-    visit: 'https://yourvalorhomes.netlify.app',
+    visit: '',
     id: 2,
   },
   {
@@ -41,7 +41,7 @@ export const projects = [
     image: '/corex.png',
     tags: ['NextJS', 'TailwindCSS'],
     source: 'https://corexstudios.netlify.app/',
-    visit: 'https://corexstudios.netlify.app/',
+    visit: '',
     id: 4,
   },
   {
@@ -62,6 +62,15 @@ export const projects = [
     visit: 'https://github.com/gioadorno/Portfolio',
     id: 6,
   },
+    {
+    title: 'Portfolio - Version 2',
+    description: "Second version of my portfolio site",
+    image: '/port2.png',
+    tags: ['ReactJS, Styled Components'],
+    source: 'https://giovanni-resume.netlify.app',
+    visit: '',
+    id: 7,
+  },
   {
     title: 'The Blog',
     description: "Simple, easy-to-use blog website, allowing users to like and comment on the blog-owner's post.",
@@ -69,7 +78,7 @@ export const projects = [
     tags: ['NextJS', 'Typescript', 'GROQ', 'SanityIO', 'TailwindCSS'],
     source: 'https://theblog-omega.vercel.app/',
     visit: 'https://github.com/gioadorno/theblog',
-    id: 7,
+    id: 8,
   },
 ];
 

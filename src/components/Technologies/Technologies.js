@@ -11,7 +11,7 @@ const Technologies = () =>  (
       Technologies
     </SectionTitle>
     <SectionText>
-      I have an excellent set of skills that makes me stand out from others from Business, Front-end Development and Design, to Back-end Development.
+      I have an excellent set of skills that makes me an excellent, well rounded individual for any business, from experiences with Business, Front-end Development and Design, to Back-end Development.
     </SectionText>
     <List>
       <ListItem>
