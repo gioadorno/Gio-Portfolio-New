@@ -26,9 +26,11 @@ const Technologies = () =>  (
             NextJS <br />
             StyledComponents <br />
             TailwindCSS <br />
+            Some Typescript <br />
             Some SCSS <br />
             MaterialUI <br />
             SEO Knowledge <br />
+            Javascript <br />
             HTML/CSS <br />
           </ListParagraph>
         </ListContainer>
@@ -41,13 +43,12 @@ const Technologies = () =>  (
           </ListTitle>
           <ListParagraph>
             Experience with <br />
-            Javascript <br />
             NodeJS <br />
             ExpressJS <br />
             NoSQL Databases (MongoDB, DynamoDB) <br />
             Some SQL (PostgreSQL) <br />
-            Some Typescript <br />
             Some GraphQL <br />
+            JSON Web Tokens
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -66,7 +67,7 @@ const Technologies = () =>  (
             AWS Cloudfront <br />
             AWS IAM <br />
             Adobe Photoshop <br />
-            Adoboe Illustrator <br />
+            Adobe Illustrator <br />
             Adobe Premier Pro <br />
             Adobe XD <br />
             Final Cut Pro <br />

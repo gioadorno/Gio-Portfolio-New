@@ -72,13 +72,22 @@ export const projects = [
     id: 7,
   },
   {
+    title: 'The Travel',
+    description: "Application created to easily search nearby, or searched, restaurants, hotels, and attractions. Each location, if provided by that business, will have a direct link to their business, as well as a Travel Advisor link.",
+    image: '/thetravel.png',
+    tags: ['React', 'RapidAPI', 'Material UI'],
+    source: 'https://thetravel.netlify.app/',
+    visit: '',
+    id: 8,
+  },
+  {
     title: 'The Blog',
     description: "Simple, easy-to-use blog website, allowing users to like and comment on the blog-owner's post.",
     image: '/theblog.png',
     tags: ['NextJS', 'Typescript', 'GROQ', 'SanityIO', 'TailwindCSS'],
     source: 'https://theblog-omega.vercel.app/',
     visit: 'https://github.com/gioadorno/theblog',
-    id: 8,
+    id: 9,
   },
 ];
 
